@@ -51,12 +51,16 @@ Bem-vindo ao projeto To-Do List desenvolvido durante a semana de eventos da Rock
 
 ## Capturas de Tela
 
+### Inicializando o Projeto
 ![Inicializando o Projeto](/screenshots/inicilizando-projeto.jpg)
 ---
+### Banco de dados operando
 ![Banco de dados operando](/screenshots/java-todo-list-0.jpg)
 ---
+### Alterando taks da aplicação
 ![Alterando taks da aplicação](/screenshots/java-todo-list-1.jpg)
 ---
+### Validando usuário cadastrado
 ![Validando usuário cadastrado](/screenshots/java-todo-list-2.jpg)
 ---
 
